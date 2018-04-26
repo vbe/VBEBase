@@ -2,10 +2,10 @@ package fr.vbe.android.base.test
 
 import android.databinding.DataBindingUtil
 import android.os.Bundle
-import fr.vbe.android.base.BaseActivity
+import android.support.v7.app.AppCompatActivity
 import fr.vbe.android.base.test.databinding.HomeActivityBinding
 
-class HomeActivity : BaseActivity() {
+class HomeActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
