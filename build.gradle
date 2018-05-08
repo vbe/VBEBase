@@ -3,7 +3,7 @@
 
 buildscript {
     ext.gradle_version = '3.1.0'
-    ext.kotlin_version = '1.2.31'
+    ext.kotlin_version = '1.2.41'
     ext.support_version = '27.1.1'
 
 
